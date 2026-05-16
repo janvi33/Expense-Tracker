@@ -18,10 +18,10 @@ A full-stack personal finance management application that helps you track your i
 ## Screenshots
 
 ### Dashboard
-![Dashboard](Screenshot%202024-05-14%20221900.png)
+![Dashboard](Dashboard.png)
 
 ### Balance Overview
-![Balance](Screenshot%202024-05-14%20221933.png)
+![Balance](Balance.png)
 
 ### Income Page
 ![Incomes](income.png)
